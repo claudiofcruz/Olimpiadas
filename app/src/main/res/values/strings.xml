@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Olimpiadas</string>
+    <string name="ingressos">Ingressos</string>
+    <string name="lbNome">Nome:</string>
+    <string name="lbIdade">Idade:</string>
+    <string name="lbModalidade">Modalidade:</string>
+    <string name="lbPeriodo">Período:</string>
+    <string name="rbManha">Manhã (9h - 12h)</string>
+    <string name="rbTarde">Tarde (13h - 18h)</string>
+    <string name="rbNoite">Noite (18h - 23h)</string>
+    <string name="btnReserva">Reservar</string>
+</resources>
