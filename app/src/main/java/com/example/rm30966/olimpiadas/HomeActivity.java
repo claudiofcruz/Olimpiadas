@@ -79,6 +79,7 @@ public class HomeActivity extends AppCompatActivity{
                 confirmar.dismiss();
                 edtIdade.setText("");
                 edtNome.setText("");
+                edtNome.requestFocus();
             }
         });
 
