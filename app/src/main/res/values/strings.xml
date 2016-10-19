@@ -9,4 +9,12 @@
     <string name="rbTarde">Tarde (13h - 18h)</string>
     <string name="rbNoite">Noite (18h - 23h)</string>
     <string name="btnReserva">Reservar</string>
+    <string name="lbNomeD">Nome: </string>
+    <string name="lbIdadeD">Idade: </string>
+    <string name="lbModalidadeD">Modalidade: </string>
+    <string name="lbHorarioD">Horário: </string>
+    <string name="btnConfirmarD">Confirmar</string>
+    <string name="lbConfirmarD">Confirmação</string>
+    <string name="lbOKD">OK</string>
+    <string name="msgErroHome">Preencher Campos</string>
 </resources>

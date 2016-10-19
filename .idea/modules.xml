@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file:///Volumes/HDD/Users/claudiocruz/AndroidStudioProjects/Olimpiadas/Olimpiadas.iml" filepath="/Volumes/HDD/Users/claudiocruz/AndroidStudioProjects/Olimpiadas/Olimpiadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Olimpiadas.iml" filepath="$PROJECT_DIR$/Olimpiadas.iml" />
+      <module fileurl="file:///Volumes/HDD/Users/claudiocruz/AndroidStudioProjects/Olimpiadas/app/app.iml" filepath="/Volumes/HDD/Users/claudiocruz/AndroidStudioProjects/Olimpiadas/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
